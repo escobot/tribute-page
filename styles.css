@@ -15,7 +15,7 @@ html, body {
   }
   
   .first-page {
-    background:#fff url("https://images2.alphacoders.com/339/33952.jpg") no-repeat fixed left top;
+    background:#fff url("img/w1.jpg") no-repeat fixed left top;
     background-size: 130%;
   }
   
@@ -66,22 +66,22 @@ html, body {
   }
   
   .half-life {
-    background: #fff url("http://www.blackmesasource.com/images/portfolio/image12.jpg") no-repeat fixed left top;
+    background: #fff url("img/w2.jpg") no-repeat fixed left top;
     background-size: 110%;
   }
   
   .half-life-2 {
-    background: #fff url("http://i65.tinypic.com/fcnp0x.jpg") no-repeat fixed left top;
+    background: #fff url("img/w3.png") no-repeat fixed left top;
     background-size: 110%;
   }
   
   .half-life-ep-1 {
-    background: #fff url("http://i66.tinypic.com/2ighd2u.jpg") no-repeat fixed left top;
+    background: #fff url("img/w4.jpg") no-repeat fixed left top;
     background-size: 130%;
   }
   
   .half-life-ep-2 {
-    background: #fff url("http://www.wallpaperhi.com/thumbnails/detail/20140307/trees%20destruction%20halflife%202_www.wallpaperhi.com_42.jpg") no-repeat fixed left top;
+    background: #fff url("img/w5.jpg") no-repeat fixed left top;
     background-size: 100%;
   }
   
